@@ -1,0 +1,13 @@
+/Users/marco/VSCode/rustlings/target/release/deps/console-92511046e12c2b4f.rmeta: /Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/lib.rs /Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/common_term.rs /Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/kb.rs /Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/term.rs /Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/unix_term.rs /Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/utils.rs /Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/ansi.rs
+
+/Users/marco/VSCode/rustlings/target/release/deps/libconsole-92511046e12c2b4f.rlib: /Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/lib.rs /Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/common_term.rs /Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/kb.rs /Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/term.rs /Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/unix_term.rs /Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/utils.rs /Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/ansi.rs
+
+/Users/marco/VSCode/rustlings/target/release/deps/console-92511046e12c2b4f.d: /Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/lib.rs /Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/common_term.rs /Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/kb.rs /Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/term.rs /Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/unix_term.rs /Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/utils.rs /Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/ansi.rs
+
+/Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/lib.rs:
+/Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/common_term.rs:
+/Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/kb.rs:
+/Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/term.rs:
+/Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/unix_term.rs:
+/Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/utils.rs:
+/Users/marco/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.5/src/ansi.rs:
