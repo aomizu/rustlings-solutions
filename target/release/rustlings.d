@@ -1,1 +1,0 @@
-/Users/marco/VSCode/rustlings/target/release/rustlings: /Users/marco/VSCode/rustlings/src/exercise.rs /Users/marco/VSCode/rustlings/src/main.rs /Users/marco/VSCode/rustlings/src/project.rs /Users/marco/VSCode/rustlings/src/run.rs /Users/marco/VSCode/rustlings/src/ui.rs /Users/marco/VSCode/rustlings/src/verify.rs
